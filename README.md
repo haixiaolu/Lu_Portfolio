@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Project 1: 2021 NBA All-Star 24 Men Roster Prediction: Project Overview
 
-You can use the [editor on GitHub](https://github.com/haixiaolu/Lu_Portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Created models to predict the 24 men roster for NBA all-star game. 
+- Engineered features that are important criterias for create the best model.  
+- Optimized Logistic, Lasso, Random Forest classifications to reach the best model. 
 
 ### Markdown
 
