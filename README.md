@@ -6,6 +6,7 @@
 - Engineered features that are important criterias for create the best model.  
 - Optimized Logistic, Lasso, Random Forest classifications to reach the best model. 
 
+![](https://github.com/haixiaolu/Lu_Portfolio/blob/main/images/Picture2.jpg?raw=true)
 
 ## [Project 2: Predict Total Sales](https://github.com/haixiaolu/total-sales-revenue)
 
