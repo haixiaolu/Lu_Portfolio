@@ -1,4 +1,6 @@
-## Project 1: 2021 NBA All-Star 24 Men Roster Prediction: Project Overview
+# Project Overview
+
+## Project 1: 2021 NBA All-Star 24 Men Roster Prediction
 
 - Created models to predict the 24 men roster for NBA all-star game. 
 - Engineered features that are important criterias for create the best model.  
