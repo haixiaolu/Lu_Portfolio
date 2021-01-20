@@ -8,6 +8,8 @@
 
 ![](https://github.com/haixiaolu/Lu_Portfolio/blob/main/images/Picture1.jpg?raw=true)
 
+----
+
 ## [Project 2: Predict Total Sales](https://github.com/haixiaolu/total-sales-revenue)
 
 For this project I built several models to predict how much sales revenue can be expected from each customer based on their website site visit behaviors. Then, I chose the best preform model to submit on a kaggle competition which only opens for our Data Analytics Fall Term class 2020. We were competing against the others in the class for the best score on the private leaderboard. 
@@ -15,6 +17,8 @@ For this project I built several models to predict how much sales revenue can be
 I was able to get the model to predict the total sales revenue with 94% accuracy after some feature engineering and turning. For most of the cases this would have a reasonable results on the public leader board. To get a better results I used some cross-validation and resampling to trained my models. This created some solid results. 
 
   ![](https://github.com/haixiaolu/Lu_Portfolio/blob/main/images/unnamed-chunk-14-1.png?raw=true)
+  
+---
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
