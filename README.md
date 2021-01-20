@@ -6,6 +6,13 @@
 - Engineered features that are important criterias for create the best model.  
 - Optimized Logistic, Lasso, Random Forest classifications to reach the best model. 
 
+
+## [Project 2: Predict Total Sales]
+
+For this project I built several models to predict how much sales revenue can be expected from each customer based on their website site visit behaviors. Then, I chose the best preform model to submit on a kaggle competition which only opens for our Data Analytics Fall Term class 2020. We were competing against the others in the class for the best score on the private leaderboard. 
+
+I was able to get the model to predict the total sales revenue with 94% accuracy after some feature engineering and turning. For most of the cases this would have a reasonable results on the public leader board. To get a better results I used some cross-validation and resampling to trained my models. This created some solid results. 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
