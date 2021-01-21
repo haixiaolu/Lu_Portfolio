@@ -2,7 +2,7 @@
 
 ## [Project 1: 2021 NBA All-Star 24 Men Roster Prediction](https://github.com/haixiaolu/NBA-all-star)
 
-<img src="https://github.com/haixiaolu/Lu_Portfolio/blob/main/images/nbaas21_ss1.jpg" width="800">
+<img src="https://github.com/haixiaolu/Lu_Portfolio/blob/main/images/nbaas21_ss1.jpg" width="500">
 
 
 - Created models to predict the 24 men roster for NBA all-star game. 
