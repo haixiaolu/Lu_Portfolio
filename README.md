@@ -9,7 +9,7 @@
 - Engineered features that are important criterias for create the best model.  
 - Optimized Logistic, Lasso, Random Forest classifications to reach the best model. 
 
-![](https://github.com/haixiaolu/Lu_Portfolio/blob/main/images/screenshot.png)
+<img src ="https://github.com/haixiaolu/Lu_Portfolio/blob/main/images/screenshot.png" width="500", height="400")
 
 ----
 
