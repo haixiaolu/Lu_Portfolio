@@ -10,6 +10,7 @@
 - Optimized Logistic, Lasso, Random Forest classifications to reach the best model. 
 
 <img src ="https://github.com/haixiaolu/Lu_Portfolio/blob/main/images/screenshot.png" width="500" height="300">
+<img src = "https://github.com/haixiaolu/Lu_Portfolio/blob/main/images/nba1.png" width="500" height="300">
 
 ----
 
