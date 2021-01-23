@@ -1,6 +1,6 @@
 # Project Overview
 
-## [Project 1: 2021 NBA All-Star 24 Men Roster Prediction](https://github.com/haixiaolu/NBA-all-star)
+## [Project 1: 2021 NBA All-Star 24 Men Roster Prediction](https://github.com/haixiaolu/NBA-All-Star-Project)
 
 <img src="https://github.com/haixiaolu/Lu_Portfolio/blob/main/images/nbaas21_ss1.jpg" width="500" height="200">
 
