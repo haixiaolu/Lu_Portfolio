@@ -21,7 +21,7 @@ For this project I built several models to predict how much sales revenue can be
 
 I was able to get the model to predict the total sales revenue with 94% accuracy after some feature engineering and turning. For most of the cases this would have a reasonable results on the public leader board. To get a better results I used some cross-validation and resampling to trained my models. This created some solid results. 
 
-  ![](https://github.com/haixiaolu/Lu_Portfolio/blob/main/images/unnamed-chunk-14-1.png?raw=true)
+  ![](https://github.com/haixiaolu/Lu_Portfolio/blob/main/images/unnamed-chunk-10-1.png)
   
 ---
 
