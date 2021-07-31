@@ -14,7 +14,9 @@
 <img src = "https://github.com/haixiaolu/Lu_Portfolio/blob/main/images/nba.png" width="500" height="300">
 
 ### The Actual Roster in 2021
-<img src = "https://github.com/haixiaolu/Lu_Portfolid/bolb/main/images/2021-all-star-roster-post-draft-promo-1-1568x882.jpeg" width="500" height="300">
+
+<img src = "https://github.com/haixiaolu/Lu_Portfolio/blob/main/images/2021-all-star-roster-post-draft-promo-1-1568x882.jpeg
+" width="500" height="300">
 
 ----
 
